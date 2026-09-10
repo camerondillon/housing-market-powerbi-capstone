@@ -31,7 +31,9 @@ The project involved transforming housing data into visual analysis, identifying
 
 ## Project Presentation
 
-A screen recording of the final capstone presentation is included in this repository.
+A screen recording of the final capstone presentation is included below.
+
+[🎥 View Capstone Presentation](Capstone_Final_Visual_Analysis_Project.mp4)
 
 ## About the Project
 
